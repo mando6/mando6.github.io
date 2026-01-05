@@ -2,6 +2,8 @@
 layout: post
 title: "The Psychology of Social Engineering: Why People Fall for It"
 date: 2025-12-30
+categories: [Social Engineering]
+tags: [social_eng]
 ---
 
 Cybersecurity is often discussed in terms of firewalls, encryption protocols, and zero-day vulnerabilities. However, the most consistent point of failure in any security system remains the human element. Social engineering—the practice of manipulating individuals into divesting confidential information—circumvents technical defenses by targeting psychological blind spots. For small businesses, where resources are lean and employees often wear multiple hats, understanding the cognitive mechanics of these attacks is a practical necessity.
